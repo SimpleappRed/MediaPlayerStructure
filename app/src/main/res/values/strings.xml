@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="category_add">Add to library</string>
+    <string name="aventura_artist">Aventura</string>
+    <string name="marc_anthony_artist">Marc Anthony</string>
+    <string name="romeo_santos_artist">Romeo Santos</string>
+    <string name="por_un_beso_song">Por un beso</string>
+    <string name="la_novelita_song">La novelita</string>
+    <string name="alexandra_song">Alexandra</string>
+    <string name="vivir_mi_vida_song">Vivir mi vida</string>
+    <string name="dime_si_te_gusto_song">Dime si te gusto</string>
+    <string name="propuesta_indecente_song">Propuesta indecente</string>
+</resources>
